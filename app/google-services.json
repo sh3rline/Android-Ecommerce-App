@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "231507833171",
+    "firebase_url": "https://android-online-shop.firebaseio.com",
+    "project_id": "android-online-shop",
+    "storage_bucket": "android-online-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231507833171:android:2f70e133558dd3f3",
+        "android_client_info": {
+          "package_name": "com.example.wafflehouse.androidonlineshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231507833171-ln2ogqera5rlnvjv6006uslr5rn91jqt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wafflehouse.androidonlineshop",
+            "certificate_hash": "7375ffa695256a85663d04385b4bcef3bb51591d"
+          }
+        },
+        {
+          "client_id": "231507833171-r7t0134se5ksm0bsetqvgf88vqik63au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOzpYbUcFOQfHMwnJrzb77P2B_aQ1njc4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231507833171-r7t0134se5ksm0bsetqvgf88vqik63au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
